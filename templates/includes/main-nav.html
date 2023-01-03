@@ -29,9 +29,12 @@
                 Protein Snacks
             </a>
             <div class="dropdown-menu border-0" aria-labelledby="protein-snacks-link">
-                <a href="" class="dropdown-item">Bed &amp; Bath</a>
-                <a href="" class="dropdown-item">Kitchen &amp; Dining</a>
-                <a href="" class="dropdown-item">All Homeware</a>
+                <a href="{% url 'products' %}?category=bars" class="dropdown-item">Bars</a>
+                <a href="{% url 'products' %}?category=flapjacks" class="dropdown-item">Flapjacks</a>
+                <a href="{% url 'products' %}?category=cookies" class="dropdown-item">Cookies</a>
+                <a href="{% url 'products' %}?category=crisps" class="dropdown-item">Crisps</a>
+                <a href="{% url 'products' %}?category=pancakes" class="dropdown-item">Pancakes</a>
+                <a href="{% url 'products' %}?category=bars,flapjacks,cookies,crisps,pancakes" class="dropdown-item">All Snacks</a>
             </div>
         </li>
 
