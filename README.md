@@ -1,7 +1,7 @@
 <h1 align="center">PROTEIN SHAKES N SNACKS<h1>
 
 <p align="center">
-    <a href="https://food-bank-manager.herokuapp.com/">View the live project here.</a>
+    <a href="https://protein-shakes-n-snacks.herokuapp.com/">View the live project here.</a>
 </p>
 
 ## This is a web based application designed for the sale of takaway shakes and protein snacks.
@@ -14,8 +14,8 @@
 
     -   #### First Time User Goals
 
-        1. As a First Time User, I want to easily understand the main purpose of the web app.
-        2. As a First Time User, I want to be able to browse the menu.
+        1. As a First Time User, I want to easily easily navigate the web app.
+        2. As a First Time User, I want to be able to browse and search the menu.
         3. As a First Time User, I want to be able to register to be able to make orders.
     
     -   #### Returning Visitor Goals
@@ -57,7 +57,7 @@
 - Responsive on all device screen sizes
 
 - Interactive elements 
-    -   Actions involving login, using CRUD functionalities and editing food items are confirmed Swith feedback messages [View](/static/img/feedback_message.png) 
+    - Actions involving login, using CRUD functionalities and editing food items are confirmed with feedback messages [View](/static/img/feedback_message.png) 
     - Low stock warning is triggered if item's inventory value is 10 or less [View](/static/img/low_stock_warning.png)
 
 - CRUD functionalities
@@ -68,26 +68,21 @@
 
 -   [HTML5](https://en.wikipedia.org/wiki/HTML5)
 -   [CSS3](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)
+    [JavaSript](https://en.wikipedia.org/wiki/JavaScript)
 -   [Python](https://www.python.org/)
 
 ### Frameworks, Libraries & Programs Used
 
+1. [diagrams.net:](https://app.diagrams.net/)
+    - Web based application diagrams.net is used to create wireframes during the design stage of the project.
+1. [django](https://www.djangoproject.com/)
+    - A python web framework used to create
 1. [Font Awesome:](http://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
-1. [Materialize:](https://materializecss.com/)
-    - Materialize is used to provide the main Nav Bar, the side Nav Bar, the Hompage collapsible and food categories cards.
-1. [jQuery:](http://jquery.com/)
-    - jQuery is used to implement Materialize elements and form validation.
-1. [Flask:](https://palletsprojects.com/p/flask/)
-    - Flask is used to render html templates, enable user login password generation and flashing feedback messages.
 1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git.
-1. [MongoDB:](https://www.mongodb.com/)
-    - MongoDB is used to provide the application with a database where the data saved by the users can be stored and edited.
-1. [diagrams.net:](https://app.diagrams.net/)
-    - Web based application diagrams.net is used to create wireframes during the design stage of the project.
+    - GitHub is used to store the projects code after being pushed from Git. 
 
 ## Testing
 
@@ -136,7 +131,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 ## Credits
 
 ### Code
--   The code has been largely adapted form [Code Institute's](https://codeinstitute.net/) 'Mini Project' tutorial in 'Backend Development' section by [Tim Nelson](https://github.com/TravelTimN).
+-   The code has been largely based on [Code Institute's](https://codeinstitute.net/) 'Boutique Ado' tutorial in 'Full Stack Frameworks with Django' section by [Tim Nelson](https://github.com/TravelTimN).
 
 ### Content
 -   Chocolate Protein Shake description and nutritional values [Chelsea's Messy Arpron](https://www.chelseasmessyapron.com/triple-chocolate-chunk-brownie-protein-shake/)
