@@ -73,16 +73,23 @@
 
 ### Frameworks, Libraries & Programs Used
 
+1. [AWS:](https://aws.amazon.com/)
+    - Amazon Web Services is used for media and static files cloud storage.
 1. [diagrams.net:](https://app.diagrams.net/)
     - Web based application diagrams.net is used to create wireframes during the design stage of the project.
 1. [django](https://www.djangoproject.com/)
-    - A python web framework used to create
+    - A python web framework used to create web app structue (views, templates and linking) and functionalities (authentication, admin).
+1. [ElephantSQL](https://www.elephantsql.com/)
+    - ElephantSQL is used to create an external database that can be used by the web app deployed at Heroku.
 1. [Font Awesome:](http://fontawesome.com/)
     - Font Awesome was used on all pages throughout the website to add icons for aesthetic and UX purposes.
 1. [Git:](https://git-scm.com/)
     - Git was used for version control by utilizing the Gitpod terminal to commit to Git and Push to GitHub.
 1. [GitHub:](https://github.com/)
-    - GitHub is used to store the projects code after being pushed from Git. 
+    - GitHub is used to store the projects code after being pushed from Git.
+1. [Heroku:](https://www.heroku.com/)
+    - Heroku is cloud application platform used to host the web app for online access.
+
 
 ## Testing
 
