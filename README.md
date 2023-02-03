@@ -6,7 +6,7 @@
 
 ## This is a web based application designed for the sale of takaway shakes and protein snacks.
 
-<h2 align="center"><img src="https://i.ibb.co/0tRh3g5/responsive-design.png"></h2>
+<h2 align="center"><img src="https://ibb.co/N7nF9Qr"></h2>
 
 -   ## User Experience (UX)
 
@@ -37,7 +37,7 @@
         -   The font of choice for the application is Roboto Google font with Sans-Serif as backup.
 
     -   #### Imagery
-        -   The Background image is referring to the purpose of the application. Icons hint at various features and CRUD functionalities.
+        -   The Background image is used for aesthetic purposes and to ecourage user's interaction with the site.
 
 *   ### Wireframes
     -   Atribute schema [View](/static/img/Database_schema.PNG)
@@ -54,13 +54,13 @@
     
 ## Features
 
-- Responsive on all device screen sizes
+- Responsive on all device screen sizes as shown above - image obtained at [Am I Responsive?](https://ui.dev/amiresponsive)
 
 - Interactive elements 
-    - Actions involving login, using CRUD functionalities and editing food items are confirmed with feedback messages [View](/static/img/feedback_message.png) 
-    - Low stock warning is triggered if item's inventory value is 10 or less [View](/static/img/low_stock_warning.png)
+    - Actions involving login, registration, modifying shopping bag contents, purchases and editing product are confirmed with feedback messages [View](/static/img/feedback_message.png) 
+    - Shopping bag provides on amount that needs to be spent to obtain free delivery [View](/static/img/low_stock_warning.png)
 
-- CRUD functionalities
+- CRUD functionalities available at Django admin page for authorized staff members and site owner (i.e super user)
 
 ## Technologies
 
