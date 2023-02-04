@@ -6,7 +6,7 @@
 
 ## This is a web based application designed for the sale of takaway shakes and protein snacks.
 
-<h2 align="center"><img src="https://ibb.co/N7nF9Qr"></h2>
+<h2 align="center"><img src="https://i.ibb.co/b7R6sqF/responsive-design.png"></h2>
 
 -   ## User Experience (UX)
 
@@ -152,20 +152,30 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 -   Reign Peach Fizz descripion and nuritional values [musclefood](https://www.musclefood.com/reign-peach-fizz.html)
 -   Moose Juice Berry description and nutritional values [musclemoose](https://musclemoose.co.uk/product/berry/)
 -   Protein Dynamix BCAA Amino Energy descripion and nuritional values [musclefinessewholesale](https://musclefinessewholesale.com/protein-dynamix-bcaa-amino-energy-12-x-500ml.html)
+-   Chocolate Chip Salted Caramel Protein Bar description and nutritional values [musclefood](https://www.musclefood.com/chocolate-chip-salted-caramel-grenader-carb-killatm-bar-12-x-60g.html)
+-   The Big Protein Flapjack - Peanut Butter description and nutritional values [musclefood](https://www.musclefood.com/the-big-protein-flapjack-peanut-butter-24.html)
+-   Cheese And Onion Protein Crisps description and nutritional values [Shake That Weight](https://www.shakethatweight.co.uk/shop/fitness/protein-crisps/cheese-onion-crisps)
+-   Banana Protein Pancakes description and nutritional values [Healthy Fitness Meals](https://healthyfitnessmeals.com/banana-protein-pancakes/)
+-   Peanut Butter Blueberry Protein Cookies description and nutritional values [Hayl's Kitchen](https://www.haylskitchen.com/pb-blueberry-protein-cookies/)
 -   All remaining content was written by the developer.
 
 ### Media
--   Background image for the app is a free stock photo by Kindel Media at [Pexel] https://www.pexels.com/pl-pl/zdjecie/koktajl-sloj-odswiezenie-zimne-napoje-8181548/
--   Chocolate Protein Shake photo [Chelsea's Messy Arpron](https://www.chelseasmessyapron.com/wp-content/uploads/2013/10/Chocolate-Protein-Shake-1.jpg)
--   Coffee Protein Shake photo [Love & Zest](https://www.loveandzest.com/wp-content/uploads/2019/02/Coffee-Protein-Shake-Web-Ready-8-640x960.jpg)
--   Cookies and Cream Protein Shake [The Seasoned Mom](https://www.theseasonedmom.com/wp-content/uploads/2018/12/Cookies-and-Cream-Protein-Shake-8a.jpg)
--   Strawberry Banana Protein Shake [The Protein Chef](https://media.theproteinchef.co/wp-content/uploads/2021/08/Strawberry-Banana-Protein-Shake-Recipe-683x1024.jpg)
--   Peanut Butter Protein Shake [eating bird food](https://www.eatingbirdfood.com/wp-content/uploads/2021/07/peanut-butter-protein-shake-in-cup-633x950.jpg)
--   Protein Packed Skinny Frozen Mocha [Nutrition Starring YOU](https://www.simplyhappyfoodie.com/wp-content/uploads/2019/07/iced-coffee-protein-shake-1b.jpg)
+-   Background image for the app is a free stock photo by Kindel Media at [Pexel](https://www.pexels.com/pl-pl/zdjecie/koktajl-sloj-odswiezenie-zimne-napoje-8181548/)
+-   Chocolate Protein Shake image [Chelsea's Messy Arpron](https://www.chelseasmessyapron.com/wp-content/uploads/2013/10/Chocolate-Protein-Shake-1.jpg)
+-   Coffee Protein Shake image [Love & Zest](https://www.loveandzest.com/wp-content/uploads/2019/02/Coffee-Protein-Shake-Web-Ready-8-640x960.jpg)
+-   Cookies and Cream Protein Shake image [The Seasoned Mom](https://www.theseasonedmom.com/wp-content/uploads/2018/12/Cookies-and-Cream-Protein-Shake-8a.jpg)
+-   Strawberry Banana Protein Shake image [The Protein Chef](https://media.theproteinchef.co/wp-content/uploads/2021/08/Strawberry-Banana-Protein-Shake-Recipe-683x1024.jpg)
+-   Peanut Butter Protein Shake image [eating bird food](https://www.eatingbirdfood.com/wp-content/uploads/2021/07/peanut-butter-protein-shake-in-cup-633x950.jpg)
+-   Protein Packed Skinny Frozen Mocha image [Nutrition Starring YOU](https://www.simplyhappyfoodie.com/wp-content/uploads/2019/07/iced-coffee-protein-shake-1b.jpg)
 -   Salted Caramel Mocha Protein Frapé [The Seasoned Mom](https://www.theseasonedmom.com/wp-content/uploads/2015/03/Salted-Caramel-Mocha-Protein-Shake-17.jpg)
--   Vanila Frapé [foodfanatic](https://food-fanatic-res.cloudinary.com/iu/s--Qr4q1aJB--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1502748400/healthy-homemade-vanilla-frappuccino-pic.jpg)
--   Reign Peach Fizz [musclefood](https://d3rxe6nylop6k3.cloudfront.net/catalog/product/cache/1/image/530x/9df78eab33525d08d6e5fb8d27136e95/m/o/monster-reign-peach-fizz-500ml-mf_dr391_sample_1.jpg)
--   Moose Juice Berry [musclemoose](https://musclemoose.co.uk/wp-content/uploads/2021/04/MooseJuice_Berry-Flavour-Can_Single-600x849.png)
--   Protein Dynamix BCAA Amino Energy [musclefinessewholesale](https://musclefinessewholesale.com/media/catalog/product/cache/21d694c873907d78b2b1c9b0cbd4c5fc/t/r/tropical_energy_drink.jpg)
+-   Vanila Frapé image [foodfanatic](https://food-fanatic-res.cloudinary.com/iu/s--Qr4q1aJB--/t_xlarge_p/cs_srgb,f_auto,fl_strip_profile.lossy,q_auto:420/v1502748400/healthy-homemade-vanilla-frappuccino-pic.jpg)
+-   Reign Peach Fizz image [musclefood](https://d3rxe6nylop6k3.cloudfront.net/catalog/product/cache/1/image/530x/9df78eab33525d08d6e5fb8d27136e95/m/o/monster-reign-peach-fizz-500ml-mf_dr391_sample_1.jpg)
+-   Moose Juice Berry image [musclemoose](https://musclemoose.co.uk/wp-content/uploads/2021/04/MooseJuice_Berry-Flavour-Can_Single-600x849.png)
+-   Protein Dynamix BCAA Amino Energy image [musclefinessewholesale](https://musclefinessewholesale.com/media/catalog/product/cache/21d694c873907d78b2b1c9b0cbd4c5fc/t/r/tropical_energy_drink.jpg)
+-   Chocolate Chip Salted Caramel Protein Bar image [musclefood](https://d3rxe6nylop6k3.cloudfront.net/catalog/product/cache/1/image/530x/9df78eab33525d08d6e5fb8d27136e95/g/r/grenade-chocolate-chip-salted-caramel-carb-killa-bar-60g-mf_sn1168_box_4.jpg)
+-   The Big Protein Flapjack - Peanut Butter image [musclefood](https://d3rxe6nylop6k3.cloudfront.net/catalog/product/cache/1/image/530x/9df78eab33525d08d6e5fb8d27136e95/m/u/muscle-moose-big-protein-flapjack-peanut-butter-100g-mf_sn1503-x24.jpg)
+-   Cheese And Onion Protein Crisps image [Shake That Weight](https://www.shakethatweight.co.uk/wp-content/uploads/2020/11/EP-Cheese-Onion-Protein-Crisps_WO-1024x1024.jpg)
+-   Banana Protein Pancakes image [Healthy Fitness Meals](https://healthyfitnessmeals.com/wp-content/uploads/2018/06/banana-protein-pancakes-3.jpg)
+-   Peanut Butter Blueberry Protein Cookies description and nutritional values [Hayl's Kitchen](https://i0.wp.com/www.haylskitchen.com/wp-content/uploads/2022/08/Peanut-Butter-Blueberry-Protein-Cookies-2.jpg)
 ### Acknowledgements
--   Also many thanks to my Harlow College tutor Patrick Justus Phd who provided me with input on black box testing, database schema and ERD.
+-   Also many thanks to my Harlow College tutor Patrick Justus Phd who provided me with input on black box testing.
