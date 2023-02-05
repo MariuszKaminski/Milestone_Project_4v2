@@ -39,18 +39,17 @@
     -   #### Imagery
         -   The Background image is used for aesthetic purposes and to ecourage user's interaction with the site.
 
-*   ### Wireframes
-    -   Atribute schema [View](/static/img/Database_schema.PNG)
+-   ### Wireframes
+    
+    -   Homepage [View](/media/Homepage.png)
 
-    -   Relationship diagram (ERD) [View](/static/img/Relationship_diagram_(ERD).PNG)
+    -   Products [View](/media/Products_page.png)
 
-    -   Homepage (Visitor's view) [View](/static/img/Homepage.png)
+    -   Product Details [View](/media/Product_details.png)
 
-    -   Homepage (Logged in User's view) [View](/static/img/user_loggedin_view.png)
+    -   Shopping Bag [View](/media/Shopping_bag.png)
 
-    -   Add New Food Item Page (Logged in User's view) [View](/static/img/add_new_item_view.png)
-
-    -   Manage Food Categories Page (Admin's view) [View](/static/img/manage_food_categories_view.png)
+    -   Checkout [View](/media/Checkout.png)
     
 ## Features
 
