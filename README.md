@@ -14,30 +14,31 @@
 
     -   #### First Time User Goals
 
-        1. As a First Time User, I want to easily easily navigate the web app.
-        2. As a First Time User, I want to be able to browse and search the menu.
-        3. As a First Time User, I want to be able to register to be able to make orders.
+        1. As a Guest, I want to easily easily navigate the web app.
+        2. As a Guest, I want to be able to browse and search the menu.
+        3. As a Guest, I want to be able to register to be able to make orders.
     
     -   #### Returning Visitor Goals
 
-        1. As a Returning User, I want to be able to log into my profile.
-        2. As a Returning User, I want to be able modify data and edit the app content.
+        1. As a Registered User, I want to be able to log into my profile.
+        2. As a Registered User, I want to be able to store some of my details on the site for faster checkout.
     
     -   #### Frequent User Goals
 
-        1. As a Frequent User, I want to the app to safely store and retrieve data.        
-        2. As a Frequent User, I want to the app to be fast and efficient.
+        1. As a Staff Member, I want to the app to safely store and retrieve data.        
+        2. As a Staff Member, I want to the app to be fast and efficient.
 
 -   ### Design
 
     -   #### Color Scheme
-        -   The application's two main colours are teal and white. The buttons have their distinctive and contrasting colours to visually hint at their function.
+        -   The application's two main colours are black and white for simple and maximum contrast and legibility.
 
     -   #### Typography
         -   The font of choice for the application is Roboto Google font with Sans-Serif as backup.
 
     -   #### Imagery
-        -   The Background image is used for aesthetic purposes and to ecourage user's interaction with the site.
+        -   The background image is used for aesthetic purposes and to ecourage user's interaction with the site. <br>
+            The product page contains images of products up to four in a row.
 
 -   ### Wireframes
     
@@ -59,7 +60,7 @@
     - Actions involving login, registration, modifying shopping bag contents, purchases and editing product are confirmed with feedback messages [View](/static/img/feedback_message.png) 
     - Shopping bag provides on amount that needs to be spent to obtain free delivery [View](/static/img/low_stock_warning.png)
 
-- CRUD functionalities available at Django admin page for authorized staff members and site owner (i.e super user)
+- CRUD functionalities available at Django admin page for authorized staff members and site owner (i.e Super User)
 
 ## Technologies
 
@@ -118,14 +119,16 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
     2. As a Frequent User, I've been able to quickly update the just by clicking an item in the list and inputing figures in appropriate field.
 
 ### Further Testing
--   Black box testing schedule. [View](https://docs.google.com/document/d/1Xp4ro9cAy7-rdSsMTUlwHNvY8mwdun3R/edit?usp=sharing&ouid=113273292568686929472&rtpof=true&sd=true)
+-   Black box testing schedule. [View](https://docs.google.com/document/d/1Jl3OG22ZebmyAGIBUtjNv4lRYiGg8pyabqFY4PEP0jc/edit?usp=sharing)
 -   The website was tested on Google Chrome, Internet Explorer and Microsoft Edge.
 -   The website was viewed on a variety of devices such as Desktop, Laptop and Android phone.
--   A large amount of testing was done to ensure that all pages were linking correctly.
+-   Testing included checking that all pages were linking correctly.
 
 ### Known Bugs
 
--   Decrease and increase stock items fields need to be clicked near the bottom edge otherwise they can't be accessed. 
+-   Webhooks in Stripe showing error.
+-   Html markup validation throws 'double ID' error.
+-   The website fails to sent out email order confirmation.
 
 ## Deployment
 
