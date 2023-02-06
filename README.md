@@ -94,10 +94,10 @@
 
 The W3C Markup Validator and W3C CSS Validator Services were used to validate every page of the project to ensure there were no syntax errors in the project.
 
--   [W3C Markup Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/static/img/W3C_markup_validator.PNG) <br>
+-   [W3C Markup Validator](https://validator.w3.org/) - [Results](media/html_markup_validation_versults.PNG) <br>
     Please note that even though the html validatation shows errors, these are all related to the use of Flask values in curly brackets and Jinga templating language expressions which are essential for the app's functioning.
--   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](/static/img/W3C_CSS_validator.PNG)
--   I have used [PEP8 online check](http://pep8online.com/) to esure the Python code complies to [PEP8 Style Guide](https://peps.python.org/pep-0008/) in terms of layout, line length, indentation, blank lines, etc. - [Results](/static/img/PEP8%20checker%20result.PNG)
+-   [W3C CSS Validator](https://jigsaw.w3.org/css-validator/#validate_by_input) - [Results](media/CSS_validation_results.PNG)
+-   Efforts were made to assure compliance of the Python code with the [PEP8 Style Guide](https://peps.python.org/pep-0008/) in terms of layout, line length, indentation, blank lines, etc.
 
 ### Testing User Stories from User Experience (UX) Section
 
