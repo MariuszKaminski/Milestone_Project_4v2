@@ -16,17 +16,22 @@
 
         1. As a Guest, I want to easily easily navigate the web app.
         2. As a Guest, I want to be able to browse and search the menu.
-        3. As a Guest, I want to be able to register to be able to make orders.
+        3. As a Guest, I want to be able to register with the website to speed up the purchase process.
     
     -   #### Returning Visitor Goals
 
         1. As a Registered User, I want to be able to log into my profile.
-        2. As a Registered User, I want to be able to store some of my details on the site for faster checkout.
+        2. As a Registered User, I want to be able to store some of my details on the site for faster checkout <br>
+        and be able to see a history of my previous orders.
+        3. As a Registered User, I want to receive a confirmation of my order with order details for reference.
     
     -   #### Frequent User Goals
 
-        1. As a Staff Member, I want to the app to safely store and retrieve data.        
-        2. As a Staff Member, I want to the app to be fast and efficient.
+        1. As a Staff Member, I want to be able to manage products, orders and users.        
+        2. As a Staff Member, I want to the website to safely create and store orders in a database.
+        3. As a Site Owner, I want only authorized staff members to have access to Django admin area <br>
+        and be able to grant or withdraw authorization.
+        
 
 -   ### Design
 
@@ -102,21 +107,25 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
--   #### First Time Visitor Goals
+    #### First Time User Goals
 
-    1. As a First Time User I can clearly distinugish the main sections of the web app's home page, the header with the app's name as well as buttons for registration and login. Below there is a search section and furter down a simple food item list.
-    2. As a First Time User, I can perform searches and have access to such data as available stock size.
-    3. As a First Time User, I've been able to register and create my profile giving me access to more advanced functionalities.
+    1. As a Guest I can access all the main functionalities (i.g product page, login/registration, bag) with one click.
+    2. As a Guest, I can easily find the items I'm interested in by using the search box or form drop down menus.
+    3. As a Guest, I can register as a site user.
 
 -   #### Returning Visitor Goals
 
-    1. As a Returning User, I've been able to log into the app.
-    2. As a Returning User, while being logged in I've been able to add, delete and edit particular food items as needed.
+    1. As a Registered User, I can log into my profile using my username and an email address.
+    2. As a Registered User, I can acces my profile and save my delivery, payment and personal details at the site for faster checkout <br>
+    as well as view my previous orders' history.
+    3. As a Guest/Registered User, I receive a confirmation of my order with order details for reference both on the website and by email.
 
 -   #### Frequent User Goals
 
-    1. As a Frequent User, I'm aware that all the data in the app is stored in a cloud storage service and can be accessed only by authorized staff.
-    2. As a Frequent User, I've been able to quickly update the just by clicking an item in the list and inputing figures in appropriate field.
+    1. As a Staff Member, I can manage products, orders and users through Django admin area.        
+    2. As a Staff Member, I can rely on webhooks sent by Stripe as a redundant method of creating and storing orders in a database.
+    3. As a Site Owner, I can grant authorization to staff members and withdrwa it through Django admin area. <br> 
+    Unauthorized users are not unable to access Django admin area.
 
 ### Further Testing
 -   Black box testing schedule. [View](https://docs.google.com/document/d/1Jl3OG22ZebmyAGIBUtjNv4lRYiGg8pyabqFY4PEP0jc/edit?usp=sharing)
@@ -126,9 +135,9 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   Webhooks in Stripe showing error.
--   Html markup validation throws 'double ID' error.
--   The website fails to sent out email order confirmation.
+-   Webhooks in Stripe showing webhook delivery 505 error for payment.intent.succes.
+-   Html markup validation throws 'Duplicate ID' error.
+-   The website fails to sent out an order confirmation email.
 
 ## Deployment
 
