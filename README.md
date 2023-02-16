@@ -4,7 +4,7 @@
     <a href="https://protein-shakes-n-snacks.herokuapp.com/">View the live project here.</a>
 </p>
 
-## This is a web based application designed for the sale of takaway shakes and protein snacks.
+## This is a web based application designed for the sale of takaway shakes and protein snacks. <a name="resp-design-pic"></a>
 
 <h2 align="center"><img src="https://i.ibb.co/b7R6sqF/responsive-design.png"></h2>
 
@@ -56,10 +56,14 @@
     -   Shopping Bag [View](/media/Shopping_bag.png)
 
     -   Checkout [View](/media/Checkout.png)
+
+    -   Realtional database design (ERD) [View](/media/relational_database_design.png)
+
+    -   Full list of tables as seen in ElephantSQL interface [View](/media/elephantsql_database_tables.PNG)
     
 ## Features
 
-- Responsive on all device screen sizes as shown above - image obtained at [Am I Responsive?](https://ui.dev/amiresponsive)
+- Responsive on all device screen sizes as shown [above](#resp-design-pic) - image obtained at [Am I Responsive?](https://ui.dev/amiresponsive)
 
 - Interactive elements 
     - Actions involving login, registration, modifying shopping bag contents, purchases and editing product are confirmed with feedback messages [View](/static/img/feedback_message.png) 
@@ -107,7 +111,7 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Testing User Stories from User Experience (UX) Section
 
-    #### First Time User Goals
+-   #### First Time User Goals
 
     1. As a Guest I can access all the main functionalities (i.g product page, login/registration, bag) with one click.
     2. As a Guest, I can easily find the items I'm interested in by using the search box or form drop down menus.
@@ -135,9 +139,13 @@ The W3C Markup Validator and W3C CSS Validator Services were used to validate ev
 
 ### Known Bugs
 
--   Webhooks in Stripe showing webhook delivery 505 error for payment.intent.succes.
+-   Webhooks in Stripe showing webhook delivery 500 error for payment.intent.succes.
 -   Html markup validation throws 'Duplicate ID' error.
 -   The website fails to sent out an order confirmation email.
+
+    Comment:
+    As for the 'known bugs' I'm still looking for the causes and solutions. I may have to try and get support from Code Institute for the webhooks issue.<br>
+    This is to be carried out as future development given the opportunity.
 
 ## Deployment
 
